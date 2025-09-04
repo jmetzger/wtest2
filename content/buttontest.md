@@ -5,7 +5,7 @@ layout: hextra-home
 
 {{< badge content="Badge" color="purple" >}}
 <span class="hx:bg-purple-100">hello</span>
-<a class="hx:bg-gray-100">hello link </a>
+<a class="hx:bg-yellow-50">hello link </a>
 {{< hextra/hero-badge class="hx:bg-red-50" >}}
   <span>Free, open source</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
