@@ -5,6 +5,7 @@ layout: hextra-home
 
 <span class="hx:bg-red-100">bg red 100</span>
 <span class="hx:bg-red-900">bg red 900</span>
+<span class="hx:bg-green-200">bg green 200</span>
 
 {{< badge content="Badge" color="purple" >}}
 <span class="hx:bg-purple-100">hello</span>
