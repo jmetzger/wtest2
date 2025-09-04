@@ -3,8 +3,8 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
-<span class="hx:bg-grey-100">hello</span>
-<a class="hx:bg-grey-100">hello link </a>
+<span class="hx:bg-gray-100">hello</span>
+<a class="hx:bg-gray-100">hello link </a>
 {{< hextra/hero-badge class="hx:bg-red-50" >}}
   <span>Free, open source</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
