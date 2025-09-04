@@ -3,6 +3,12 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
+{{< hextra/hero-badge >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-red-400"></div>
+  <span>Free, open source</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
 {{< hextra/hero-headline >}}
   Build modern websites&nbsp;<br class="hx:sm:block hx:hidden" />with Markdown and Hugo
 {{< /hextra/hero-headline >}}
@@ -14,8 +20,6 @@ layout: hextra-home
 {{< hextra/hero-container image="images/logo.svg"  imageTitle="title" >}}
     Content
 {{< /hextra/hero-container >}}
-
-
 
 {{< hextra/hero-section heading="h3" >}}Title{{< /hextra/hero-section >}}
 
