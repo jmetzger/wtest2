@@ -4,7 +4,7 @@ layout: hextra-home
 ---
 
 <div class="hx:mb-2">
-{{< hextra/hero-section heading="h3" >}}Title{{< /hextra/hero-section >}}>
+{{< hextra/hero-section heading="h3" >}}Title{{< /hextra/hero-section >}}
 </div>
 
 
